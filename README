@@ -1,0 +1,15 @@
+                        _                      _       
+                       | |      _             | |      
+       ____ _____ _____| |  _ _| |_ ___   ___ | |  ___ 
+      / _  | ___ | ___ | |_/ |_   _) _ \ / _ \| | /___)
+     ( (_| | ____| ____|  _ (  | || |_| | |_| | ||___ |
+      \___ |_____)_____)_| \_)  \__)___/ \___/ \_|___/ 
+     (_____|                                           
+
+These are some geektool (http://projects.tynsoe.org/en/geektool/) scripts:
+
+twitter_user_timeline.py  -  This script will output the latest n-number of 
+                             tweets from a list of twitter usernames to stdout.
+
+my_calendar.sh            -  This script will output this months calendar with
+                             todays date highlighted to stdout.
